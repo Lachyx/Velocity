@@ -1,5 +1,6 @@
 package me.lachyx.velocity;
 
+import me.lachyx.velocity.util.Logger;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public final class Velocity extends JavaPlugin {
