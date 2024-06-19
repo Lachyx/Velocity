@@ -12,6 +12,6 @@ public final class Velocity extends JavaPlugin {
 
     @Override
     public void onDisable() {
-
+        logger.Output("[Plugin Stopped");
     }
 }
