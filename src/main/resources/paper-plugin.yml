@@ -1,0 +1,4 @@
+name: Velocity
+version: '${version}'
+main: me.lachyx.velocity.Velocity
+api-version: '1.20'
